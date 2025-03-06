@@ -1,0 +1,13 @@
+.layout{
+    max-width: 1152px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 24px;
+    
+}
+.Active{
+    background-color: #e7fe29;
+    font-weight: bold;
+    border-radius: 12px;
+}

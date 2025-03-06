@@ -1,0 +1,12 @@
+.bg-imge{
+    border-radius: 24px;
+    background-color: black;
+    background-image: url('../../assets/bg-shadow.png');
+    background-size:cover;
+
+}
+.bg-imge-2{
+    background-image: url('../../assets/gradient.jpg');
+    background-size:cover;
+    border-radius: 12px;
+}

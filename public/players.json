@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "country_flag": "https://i.ibb.co.com/3zkK6H3/finish.png",  
+      "skill": "Batsman",
+      "rating": 9.8,
+      "batting_hand": "Right-hand",
+      "price": 3000000,
+      "img": "https://i.ibb.co/y8hB4YY/koli.jpg",
+      "user_icon": "https://i.ibb.co.com/MgmbF2x/user.png"  
+    },
+    {
+      "id": 2,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "country_flag": "https://i.ibb.co.com/3zkK6H3/finish.png", 
+      "skill": "Batsman",
+      "rating": 9.7,
+      "batting_hand": "Right-hand",
+      "price": 2000000,
+      "img": "https://i.ibb.co/QMKQp7p/babar-azam.jpg",
+      "user_icon": "https://i.ibb.co.com/MgmbF2x/user.png"  
+    },
+    {
+      "id": 3,
+      "name": "Joe Root",
+      "country": "England",
+      "country_flag": "https://i.ibb.co.com/3zkK6H3/finish.png",  
+      "skill": "Batsman",
+      "rating": 9.5,
+      "batting_hand": "Right-hand",
+      "price": 2000000,
+      "img": "https://i.ibb.co/8r2x0vc/Joe-Root.webp",
+      "user_icon": "https://i.ibb.co.com/MgmbF2x/user.png" 
+    },
+    {
+      "id": 4,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "country_flag": "https://i.ibb.co.com/3zkK6H3/finish.png",  
+      "skill": "Batsman",
+      "rating": 9.4,
+      "batting_hand": "Right-hand",
+      "price": 2040000,
+      "img": "https://i.ibb.co/yFqNSbc/Kane-Williamson.jpg",
+      "user_icon": "https://i.ibb.co.com/MgmbF2x/user.png" 
+    },
+    {
+      "id": 5,
+      "name": "Ben Stokes",
+      "country": "England",
+      "country_flag": "https://i.ibb.co.com/3zkK6H3/finish.png",  
+      "skill": "All-rounder",
+      "rating": 9.6,
+      "batting_hand": "Left-hand",
+      "price": 3100000,
+      "img": "https://i.ibb.co/MPw5mTw/Th-Ben-Stokes.jpg",
+      "user_icon": "https://i.ibb.co.com/MgmbF2x/user.png"  
+    },
+    {
+      "id": 6,
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "country_flag": "https://i.ibb.co.com/3zkK6H3/finish.png", 
+      "skill": "Bowler",
+      "rating": 9.4,
+      "batting_hand": "Right-hand",
+      "price": 2200000,
+      "img": "https://i.ibb.co/9nTT4XN/Pat-Cummins.jpg",
+      "user_icon": "https://i.ibb.co.com/MgmbF2x/user.png"   
+    },
+    {
+      "id": 7,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "country_flag": "https://i.ibb.co.com/3zkK6H3/finish.png",  
+      "skill": "Bowler",
+      "rating": 9.5,
+      "batting_hand": "Right-hand",
+      "price": 2100000,
+      "img": "https://i.ibb.co/Qb686q5/Jasprit-Bumrah.jpg",
+      "user_icon": "https://i.ibb.co.com/MgmbF2x/user.png"  
+    },
+    {
+      "id": 8,
+      "name": "David Warner",
+      "country": "Australia",
+      "country_flag": "https://i.ibb.co.com/3zkK6H3/finish.png",  
+      "skill": "Batsman",
+      "rating": 9.3,
+      "batting_hand": "Left-hand",
+      "price": 2700000,
+      "img": "https://i.ibb.co/31cTykn/david-woner.webp",
+      "user_icon": "https://i.ibb.co.com/MgmbF2x/user.png"  
+    },
+    {
+      "id": 9,
+      "name": "Shaheen Afridi",
+      "country": "Pakistan",
+      "country_flag": "https://i.ibb.co.com/3zkK6H3/finish.png", 
+      "skill": "Bowler",
+      "rating": 9.3,
+      "batting_hand": "Left-hand",
+      "price": 2400000,
+      "img": "https://i.ibb.co/nBBtBmJ/afridi.webp",
+      "user_icon": "https://i.ibb.co.com/MgmbF2x/user.png"  
+    },
+    {
+      "id": 10,
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "country_flag": "https://i.ibb.co.com/3zkK6H3/finish.png",  
+      "skill": "Wicketkeeper",
+      "rating": 9.2,
+      "batting_hand": "Left-hand",
+      "price": 2500000,
+      "img": "https://i.ibb.co/S5vp2Yb/Quinton-de-kock.jpg",
+      "user_icon": "https://i.ibb.co.com/MgmbF2x/user.png" 
+    }
+  ]
+  

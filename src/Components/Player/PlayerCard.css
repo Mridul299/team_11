@@ -1,0 +1,19 @@
+.image-container{
+    width: 320px;
+    height: 240px;
+    border-radius: 16px;
+    margin-bottom: 24px;
+
+}
+
+.imgIcon{
+    width: 28px;
+    height: 28px;
+}
+.flag{
+    width: 20px;
+    height: 20px;
+}
+.bg:hover{
+    background-color: #e7fe29;
+}
